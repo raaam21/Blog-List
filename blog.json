@@ -1732,5 +1732,13 @@
     "blogTags": ["Frontend development", "React"],
     "link": "https://www.geeksforgeeks.org/how-to-learn-reactjs-a-complete-guide-for-beginners/"
     },
+{
+    "id": "295",
+    "blogTitle": "The basics of bitcoins and blockchains",
+    "source": "https://www.researchgate.net/",
+    "autherName": "Luca Liebi",
+    "blogTags": ["blockchains", "bitcoins"],
+    "link": "https://www.researchgate.net/publication/348209216_Antony_Lewis_The_basics_of_bitcoins_and_blockchains"
+    },
 
 
